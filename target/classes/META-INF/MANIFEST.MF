@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+Built-By: Manoj
+Build-Jdk: 11.0.15
+Main-Class: com.employee.employee_application.App
+Created-By: Maven Integration for Eclipse
+
